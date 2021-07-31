@@ -1,0 +1,9 @@
+[submodule "wedday/gohugo-theme-ananke"]
+	path = wedday/gohugo-theme-ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "wedday/themes/ananke"]
+	path = wedday/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "wedday/themes/hugo-story"]
+	path = wedday/themes/hugo-story
+	url = https://github.com/caressofsteel/hugo-story.git

@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Приглашение"
+subtitle: |
+  Привет! Я - пригласительная свадебная страничка, которую сделали Оля и Ден. Я расскажу вам, как все будет, и постараюсь ответить на главные вопросы.
+content : |
+  .
+button:
+  label : "Лайкнуть"
+  link : "#first"
+image : "images/banner.jpg"
+

@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Где и когда"
+content: |
+  В субботу, 21 августа в 15:45 ждем вас на Welcome Drink
+button:
+  label: "Круто, что еще?"
+  link: "#second"
+image: "images/spotlight01.jpg"
