@@ -12,7 +12,7 @@ content: |
     color: purple
   }
   .fa-telegram {
-    color: purple
+    color: #4169E1
   }
   </style>
 
