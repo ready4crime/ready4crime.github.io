@@ -2,11 +2,10 @@
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Привет!"
 subtitle: |
+content : |
   Я - пригласительная страничка на свадьбу Оли и Дена. Я расскажу вам, как все будет, и отвечу на ваши вопросы.
   <br>
-  Главное - приготовьте заряд позитива и хорошего настроения!
-content : |
-  .
+  Главное - приготовьте заряд позитива и хорошего настроения!<br><br>
 button:
   label : "Раскрыть секреты"
   link : "#first"

@@ -1,14 +1,15 @@
 <!-- Banner -->
 <section class="banner {{ .style }}">
-    <div class="content">
-        {{ with .title }}<h1>{{ . }}</h1>{{ end }}
+    <div class="content" style="padding-top: 1em">
+        {{ with .title }}<h1 style="margin-top: 0; padding-top: 0">{{ . }}</h1>{{ end }}
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
-        {{ with .content }}<p style="margin-bottom: 0; padding-bottom: 0;">{{ . | safeHTML }}</p>{{ end }}
+        {{ with .content }}<p style="margin-bottom: 0; padding-bottom: 0; font-size: 1.3rem">{{ . | safeHTML }}</p>{{ end }}
         {{ with .button }}<ul class="actions stacked" style="margin-top: 0; padding-top: 0">
             <li style="margin-top: 0; padding-top: 0"><a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ .label }}</a></li>
         </ul>{{ end }}
     </div>
     {{ with .image }}<div class="image">
-        <img src="{{.}}" alt="Hugo Story" />
+<!--        <img src="{{.}}" alt="Hugo Story" />-->
+    <iframe src="https://ntmaker.gfto.ru/newneontexten/?image_height=600&image_width=400&image_font_shadow_width=50&image_font_size=85&image_background_color=1F1F1F&image_text_color=FEFFFA&image_font_shadow_color=F7F7B9&image_url=https://i.pinimg.com/564x/48/ef/94/48ef94ceed8b411dabd5e5cda6b04e6d.jpg&image_text=Den+Olya Wedding&image_font_family=Permanent Marker&" frameborder='no' scrolling='no' width="100%" height="100%"></iframe>
     </div>{{end}}
 </section>
