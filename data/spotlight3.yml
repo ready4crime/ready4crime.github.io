@@ -2,15 +2,17 @@ style: "spotlight onscroll-image-fade-in style4 fullscreen content-align-left im
 id: "third"
 title : "Чего точно не будет"
 content: |
-  Не будет принудительных тостов  <br>
+  Не будет банкетных столов
+
+  Не будет принудительных тостов и конкурсов <br>
 
   Не будет каравая  <br>
 
-  Не будет выкупа  <br>
+  Не будет выкупа и похищенной невесты  <br>
 
-  Не будет конкурса с карандашом и бутылкой (но это неточно..) <br>
+  Не будет голубей (если они не прилетят на веранду) <br>
 
-  Не будет драк (не точно..) <br>
+  Мы любим всех своих гостей и делаем особую интроверт-safe обстановку <br>
   <a href="https://www.youtube.com/watch?v=0uvIc4u475s" class="fa fa-egg scale" style="float: right;" target="_blank" rel="noopener noreferrer"></a>
   <style>
   .scale {
@@ -24,7 +26,7 @@ content: |
     }
   </style>
 button:
-  label: "А одеваться то как?"
+  label: "А что с дресс-кодом?"
   link: "#gallery"
 #image: "images/spotlight02.jpg"
 image: "images/spotlight.jpeg"
