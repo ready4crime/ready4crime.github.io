@@ -1,11 +1,22 @@
 ####################### Spotlight #########################
-style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+style: "spotlight onscroll-image-fade-in style4 fullscreen content-align-left image-position-center orient-center"
 id: "second"
-title : "Карта"
+title : "Что вас ждет"
 content: |
-  <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ad18fb4f25e6eb78f34aa9e17a9dbe617d5b5c315ade97bf2d410044ab1572c33&amp;width=868&amp;height=298&amp;lang=ru_RU&amp;scroll=true"></script>
-  <br><span class="demo-controls">appearance with a number of modifiers</span>
-button: 
-  label: "А как пройти"
-  link: "#"
-image: "images/spotlight02.jpg"
+  Вас ждет <strong>Welcome Drink</strong> с вкусными напитками
+  <br>
+  Будем умиляться на <strong>Свадебной церемонии</strong>
+  <br>
+  Будем <b>играть в интерактивы</b> и много <b>танцевать</b>!
+  <br>
+  Смотреть на <b>кусок торта</b> с мыслью "еще и торт?"
+  <br>
+  Чилить на <b>After Party</b> с видом на вечернюю Москву под приятную музыку
+  <br>
+  <b style="text-align: right">Вкусняяяяшки</b>
+
+button:
+  label: "А чего не будет на свадьбе?"
+  link: "#third"
+image: "images/spotlight03.jpg"
+

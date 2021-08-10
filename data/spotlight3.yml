@@ -1,10 +1,30 @@
-####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
-id: "first"
-title : "Spotlight"
+style: "spotlight onscroll-image-fade-in style4 fullscreen content-align-left image-position-center orient-center"
+id: "third"
+title : "Чего точно не будет"
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight03.jpg"
+  Не будет принудительных тостов  <br>
+
+  Не будет каравая  <br>
+
+  Не будет выкупа  <br>
+
+  Не будет конкурса с карандашом и бутылкой (но это неточно..) <br>
+
+  Не будет драк (не точно..) <br>
+  <a href="https://www.youtube.com/watch?v=0uvIc4u475s" class="fa fa-egg scale" style="float: right;" target="_blank" rel="noopener noreferrer"></a>
+  <style>
+  .scale {
+   color: purple;
+  }
+  .scale:hover {
+      transform: scale(5);
+     }
+  .scale:hover {
+     color: pink;
+    }
+  </style>
+button:
+  label: "А одеваться то как?"
+  link: "#gallery"
+#image: "images/spotlight02.jpg"
+image: "images/spotlight.jpeg"

@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "spotlight onscroll-image-fade-in style4 fullscreen content-align-left image-position-center orient-center"
 id: "first"
 title : "Где и когда"
 content: |
@@ -8,9 +8,7 @@ content: |
   Место проведения - <a href="https://may.moscow" target="_blank" rel="noopener noreferrer" class="icon brands style1 fa-instagram">&nbsp;<strong>may.moscow</strong></a>
   <br>
   Адрес - <a style="text-decoration:none" href="https://yandex.ru/maps/-/CCUiuJFIcD" target="_blank" rel="noopener noreferrer" class="icon fa fa-location-arrow">&nbsp;<strong>Москва, ул.Малая Семеновская, д.5, стр.1</strong></a>
-  <br>
-  <span class="demo-controls">appearance with a number of modifiers</span>
 button:
-  label: "А карта есть?"
+  label: "А что будет то?"
   link: "#second"
 image: "images/spotlight01.jpg"
