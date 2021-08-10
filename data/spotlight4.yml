@@ -20,9 +20,9 @@ content: |
     <b>Кому звонить в случае непоняток?</b><br>
     На выбор и в порядке приоритета:
     <ol style="margin:0">
-      <li>Катя (организатор) - <a href="tel:+79162979719" style="text-decoration:none"><i class="fa fa-phone"></i>&nbsp;+79162979719</a> - <a href="https://t.me/+79162979719" style="text-decoration:none"><i class="fab fa-telegram"></i>&nbsp;Катя</a></li>
-      <li>Ден (жених) - <a href="tel:+79055987020" style="text-decoration:none"><i class="fa fa-phone"></i>&nbsp;+79055987020</a> - <a href="https://t.me/deance" style="text-decoration:none"><i class="fab fa-telegram"></i>&nbsp;deance</a></li>
-      <li>Оля (невеста) - <a href="tel:+79163441106" style="text-decoration:none"><i class="fa fa-phone"></i>&nbsp;+79163441106</a> - <a href="https://t.me/nediola" style="text-decoration:none"><i class="fab fa-telegram"></i>&nbsp;nediola</a></li>
+      <li>Катя (организатор) <br> <a href="tel:+79162979719" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><i class="fa fa-phone"></i>&nbsp;+79162979719</a> - <a href="https://t.me/+79162979719" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><i class="fab fa-telegram"></i>&nbsp;Катя</a></li>
+      <li>Ден (жених) <br> <a href="tel:+79055987020" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><i class="fa fa-phone"></i>&nbsp;+79055987020</a> - <a href="https://t.me/deance" target="_blank" rel="noopener noreferrer"style="text-decoration:none"><i class="fab fa-telegram"></i>&nbsp;deance</a></li>
+      <li>Оля (невеста) <br> <a href="tel:+79163441106" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><i class="fa fa-phone"></i>&nbsp;+79163441106</a> - <a href="https://t.me/nediola" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><i class="fab fa-telegram"></i>&nbsp;nediola</a></li>
     </ol>
   </li>
   </ul>
