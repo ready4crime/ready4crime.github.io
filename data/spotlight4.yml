@@ -1,6 +1,30 @@
 ####################### Spotlight #########################
-style: "spotlight onscroll-image-fade-in style4 fullscreen content-align-center image-position-center orient-center"
+style: "spotlight onscroll-image-fade-in style4 fullscreen content-align-left image-position-center orient-center"
 id: "second"
-title : "Как пройти"
+title : "FAQ"
 content: |
-image: "images/spotlight.jpeg"
+  <ul style="list-style-type:disc">
+  <li>
+    <b>Нужен ли QR-код?</b><br>
+    Нет! Мы против ограничений невакцинированных!
+  </li>
+  <li>
+    <b>Есть ли место, где переодеться?</b><br>
+    Если очень нужно - найдем, но это неточно
+  </li>
+  <li>
+    <b>Будет ли место, где оставить вещи?</b><br>
+    Да, будет
+  </li>
+  <li>
+    <b>Кому звонить в случае непоняток?</b><br>
+    На выбор и в порядке приоритета:
+    <ol style="margin:0">
+      <li>Катя (организатор) - <a href="tel:+79162979719" style="text-decoration:none"><i class="fa fa-phone"></i>&nbsp;+79162979719</a> - <a href="https://t.me/+79162979719" style="text-decoration:none"><i class="fab fa-telegram"></i>&nbsp;Катя</a></li>
+      <li>Ден (жених) - <a href="tel:+79055987020" style="text-decoration:none"><i class="fa fa-phone"></i>&nbsp;+79055987020</a> - <a href="https://t.me/deance" style="text-decoration:none"><i class="fab fa-telegram"></i>&nbsp;deance</a></li>
+      <li>Оля (невеста) - <a href="tel:+79163441106" style="text-decoration:none"><i class="fa fa-phone"></i>&nbsp;+79163441106</a> - <a href="https://t.me/nediola" style="text-decoration:none"><i class="fab fa-telegram"></i>&nbsp;nediola</a></li>
+    </ol>
+  </li>
+  </ul>
+
+image: "images/spotlight4.jpeg"
