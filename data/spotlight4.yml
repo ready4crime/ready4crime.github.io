@@ -8,26 +8,22 @@ content: |
     text-decoration:none;
     font-weight: bold;
   }
-  .fa {
+  .fa-phone {
     color: purple
   }
-  .fab {
+  .fa-telegram {
     color: purple
   }
   </style>
 
-  <ul style="list-style-type:disc">
+  <ul style="list-style-type:none; font-size: 1.2em; padding-left:0; margin-left:0">
   <li>
     <b>Нужен ли QR-код/ПЦР-тест/Справка от ложи массонов?</b><br>
-    Нет! Мы против притеснения меньшинств!
+    Нет!
   </li>
   <li>
     <b>Есть ли место, где переодеться?</b><br>
     Если нужно - скажите заранее, и мы придумаем
-  </li>
-  <li>
-    <b>Будет ли место, где оставить вещи?</b><br>
-    Да
   </li>
   <li>
     <b>Кому звонить в случае непоняток или экстренных ситуаций?</b><br>

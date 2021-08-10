@@ -8,7 +8,9 @@
 /* Spotlight (transitions) */
 
 	.spotlight {
-
+		p {
+			font-size: 1.2em;
+		}
 		// Mixin.
 			@mixin transition-spotlight($event) {
 				$x: null;
@@ -667,7 +669,7 @@
 			@include padding(_size(padding, default) * 0.5, _size(padding, default) * 0.5);
 			position: relative;
 			width: (_size(inner) * 0.625);
-			max-width: 50%;
+			max-width: 80%;
 			background-color: inherit;
 			border-radius: _size(border-radius-alt);
 			margin-bottom: _size(element-margin);
@@ -731,7 +733,7 @@
 
 		@include breakpoint('<=xsmall') {
 			.content {
-				max-width: 80%;
+				max-width: 99%;
 			}
 		}
 
@@ -887,7 +889,7 @@
 
 		@include breakpoint('<=xsmall') {
 			.content {
-				max-width: 80%;
+				max-width: 98%;
 			}
 		}
 
